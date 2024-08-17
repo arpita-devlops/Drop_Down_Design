@@ -11,4 +11,4 @@ Include the menu.css stylesheet in your HTML file.
 Use the provided HTML structure to implement the menu bar in your project.
 Feel free to customize and expand upon this template to suit your specific needs!
 
-![Image Alt]([image_url](https://github.com/arpita-devlops/Drop_Down_Design/blob/e4d4b297aa63decf691d144dd5b174003339e115/Dropdown%20Menu%20with%20Search%20Box%20_%20%40Arpita%20-%20Google%20Chrome%2017-08-2024%2011_35_18.png)).
+![Image Alt]([[image_url](https://github.com/arpita-devlops/Drop_Down_Design/blob/e4d4b297aa63decf691d144dd5b174003339e115/Dropdown%20Menu%20with%20Search%20Box%20_%20%40Arpita%20-%20Google%20Chrome%2017-08-2024%2011_35_18.png)](https://github.com/arpita-devlops/Drop_Down_Design/blob/main/Dropdown%20Menu%20with%20Search%20Box%20_%20@Arpita%20-%20Google%20Chrome%2017-08-2024%2011_35_18.png?raw=true)).
